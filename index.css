@@ -1,0 +1,33 @@
+body{
+    background-image: url(../Recife/shutterstock_1113491633-1200x675.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+ul {display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    list-style-type: none;
+    padding: 16px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    }
+
+h1 {
+    color: darkmagenta;
+    font-weight: 800;
+    font-style:normal;
+    font-family: fantasy;
+    position:relative;
+    line-height: 600%;
+    font-size: 50px;
+   
+}
